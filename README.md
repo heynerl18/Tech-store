@@ -6,7 +6,7 @@ Tech Store es una aplicación de gestión de productos de tecnología...
 
 ![Pantalla principal](images/screenshots/Inicio.png)
 ![Vista de categorías](images/screenshots/Categorías.png)
-![Vista de productos](images/screenshots/Categorías.png)
+![Vista de productos](images/screenshots/Productos.png)
 
 ## Características
 
